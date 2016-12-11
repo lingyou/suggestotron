@@ -6,5 +6,5 @@ Rails.application.routes.draw do
      post 'downvote'
    end
  end
- get "about" => "about#index"
+ get "about3" => "about2#index3"
 end
